@@ -1,0 +1,15 @@
+city,temperature,windspeed,event
+warangal,32,6,Rainy
+warangal,32,5,Rainy
+warangal,28,17,winter
+warangal,27,14,summer
+warangal,35,28,cold
+paris,40,3,cold
+paris,38,57,summer
+paris,29,35,cold
+paris,22,44,Rainy
+chennai,20,21,Rainy
+chennai,17,50,winter
+chennai,28,68,cold
+chennai,32,67,summer
+chennai,30,33,Rainy
